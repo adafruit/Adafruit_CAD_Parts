@@ -1,2 +1,2 @@
 # Adafruit_CAD_Parts
-Fusion 360 design files for various boards, components and parts
+STEP, Fusion 360, and STL files for various boards, components and parts
